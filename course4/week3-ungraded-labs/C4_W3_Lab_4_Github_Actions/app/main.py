@@ -25,3 +25,4 @@ def predict(wine: Wine):
     return {"Prediction": pred}
 
 # test comments
+# test CICD
